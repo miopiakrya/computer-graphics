@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\bin\Debug\netcoreapp3.1\Lab1.CompGraf.exe
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\bin\Debug\netcoreapp3.1\Lab1.CompGraf.deps.json
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\bin\Debug\netcoreapp3.1\Lab1.CompGraf.runtimeconfig.json
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\bin\Debug\netcoreapp3.1\Lab1.CompGraf.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\bin\Debug\netcoreapp3.1\Lab1.CompGraf.dll
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\bin\Debug\netcoreapp3.1\Lab1.CompGraf.pdb
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.Form1.resources
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.dll
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.pdb
+C:\Users\User\source\repos\Lab1.CompGraf\Lab1.CompGraf\obj\Debug\netcoreapp3.1\Lab1.CompGraf.genruntimeconfig.cache
