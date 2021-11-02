@@ -1,0 +1,15 @@
+D:\1лабы сюда\CompGraf Lab4\bin\Debug\netcoreapp3.1\CompGraf Lab4.exe
+D:\1лабы сюда\CompGraf Lab4\bin\Debug\netcoreapp3.1\CompGraf Lab4.deps.json
+D:\1лабы сюда\CompGraf Lab4\bin\Debug\netcoreapp3.1\CompGraf Lab4.runtimeconfig.json
+D:\1лабы сюда\CompGraf Lab4\bin\Debug\netcoreapp3.1\CompGraf Lab4.runtimeconfig.dev.json
+D:\1лабы сюда\CompGraf Lab4\bin\Debug\netcoreapp3.1\CompGraf Lab4.dll
+D:\1лабы сюда\CompGraf Lab4\bin\Debug\netcoreapp3.1\CompGraf Lab4.pdb
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.csprojAssemblyReference.cache
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf_Lab4.Form1.resources
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.csproj.GenerateResource.cache
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.AssemblyInfoInputs.cache
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.AssemblyInfo.cs
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.csproj.CoreCompileInputs.cache
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.dll
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.pdb
+D:\1лабы сюда\CompGraf Lab4\obj\Debug\netcoreapp3.1\CompGraf Lab4.genruntimeconfig.cache
